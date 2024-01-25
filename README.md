@@ -15,9 +15,9 @@ I am not responsible for anything you do.
 
 
 ### Repo details
-*Important: I tried using File manager+ on my Android 13 phone, and I couldn't able to use, so if you have Android 13 You may not able to use File manager+ so you can't expl0it 
+**Important: I tried using File manager+ on my Android 13 phone, and I couldn't able to use, so if you have Android 13 You may not able to use File manager+ so you can't expl0it**
 
-BUT
+**BUT**
 
 **On my Android 12 Tablet, the File manager+ worked perfectly, so if you have Android 12, then you won't have any issue**
 
