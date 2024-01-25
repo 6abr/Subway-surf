@@ -14,6 +14,19 @@ I am not responsible for anything you do.
 5. Go back again to files folder and remove everything from characters_inventory.json and paste whats in the [characters_inventory.txt](characters_inventory.txt) _and save it!_ ( Now you get all the skins)
 
 
+### Repo details
+*Important: I tried using File manager+ on my Android 13 phone, and I couldn't able to use, so if you have Android 13 You may not able to use File manager+ so you can't expl0it 
+
+BUT
+
+On my Android 12 Tablet, the File manager+ worked perfectly, so if you have Android 12, then you won't have any issue*
+
+if somehow you can't open the files there is links for characters_inventory.json: https://pastebin.com/raw/EE12BRHn and for boards_inventory.json: https://pastebin.com/raw/8pCQf1dx
+
+
+Created: 2024/01/25
+
+
 
 
 
