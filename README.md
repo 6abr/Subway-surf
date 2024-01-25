@@ -3,6 +3,8 @@ This repo is about Subway surfers expl0it. [for Android]
 
 Recommended to read carefully!
 
+Status: 🟢 2024/01/25
+
 
 
 ## Disclaimer!
@@ -26,6 +28,7 @@ I am not responsible for anything you do.
 
 if somehow you can't open the files there is links for characters_inventory.json: https://pastebin.com/raw/EE12BRHn and for boards_inventory.json: https://pastebin.com/raw/8pCQf1dx
 
+Tested: 2024/01/25 🟢WORKING!🟢
 
 Created: 2024/01/25
 
