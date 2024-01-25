@@ -1,6 +1,9 @@
 # About repo
 This repo is about Subway surfers expl0it. [for Android] 
 
+Recommended to read carefully!
+
+
 
 ## Disclaimer!
 I am not responsible for anything you do.
