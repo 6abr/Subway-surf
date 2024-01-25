@@ -19,7 +19,7 @@ I am not responsible for anything you do.
 
 BUT
 
-On my Android 12 Tablet, the File manager+ worked perfectly, so if you have Android 12, then you won't have any issue*
+**On my Android 12 Tablet, the File manager+ worked perfectly, so if you have Android 12, then you won't have any issue**
 
 if somehow you can't open the files there is links for characters_inventory.json: https://pastebin.com/raw/EE12BRHn and for boards_inventory.json: https://pastebin.com/raw/8pCQf1dx
 
