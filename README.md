@@ -11,7 +11,7 @@ Status: 🟢 2024/01/25
 I am not responsible for anything you do.
 
 
-## Instruction to unlock everything 📝
+## Instruction 📝
 
 **If you want to get everything:**
 1. Download Subway Surfers and File manager+
