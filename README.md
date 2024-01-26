@@ -19,6 +19,14 @@ I am not responsible for anything you do.
 5. Go back again to files folder and remove everything from characters_inventory.json and paste whats in the [characters_inventory.txt](characters_inventory.txt) _and save it!_ ( Now you get all the skins)
 
 
+## Websites
+Customize everything you want:
+https://subway.herrerde.xyz/index.php
+
+json editor:
+https://subway-surfers-ez-gui.vercel.app/
+
+
 ### Repo details 📋
 **Important: I tried using File manager+ on my Android 13 phone, and I couldn't able to use, so if you have Android 13 You may not able to use File manager+ so you can't expl0it**
 
