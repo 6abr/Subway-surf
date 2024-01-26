@@ -8,7 +8,7 @@ Status: 🟢 2024/01/25
 
 
 ## Disclaimer! ⚠️
-I am not responsible for anything you do.
+__I am not responsible for anything you do.__
 
 
 ## Instruction 📝
