@@ -19,6 +19,11 @@ I am not responsible for anything you do.
 5. Go back again to files folder and remove everything from characters_inventory.json and paste whats in the [characters_inventory.txt](characters_inventory.txt) _and save it!_ ( Now you get all the skins)
 
 
+If you want to get everything:
+1. Download Subway Surfers and File manager+
+2. Open File manager+ and give to app the permissions to make the app work correctly
+3. Basically you just have to go in the MAX folder in this repo and just copy whats in the in the files and go to Android/data/com.kiloo.subwaysurf/files/profile in File manager+ and paste it in the files (filenames = subway surf file names)
+
 ## Websites/links
 Customize everything you want:
 https://subway.herrerde.xyz/index.php
