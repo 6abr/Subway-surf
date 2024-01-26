@@ -1,5 +1,5 @@
 # About repo
-This repo is about Subway surfers expl0it. [for Android] 
+This repo is about Subway surfers expl0it for Android
 
 Recommended to read carefully!
 
